@@ -3,13 +3,15 @@
 </div>
 
 <br/>
+## 🎭 **¿Quién soy?**
 
-## 💜 Sobre mí
-👩‍💻 Ana Galván — Full Stack Developer
-🚀 Java • React • Python • TypeScript
-🎨 Amo el código limpio y las interfaces con propósito
-🌱 Aprendiendo: AWS y GraphQL
-🎯 Meta: Crear cosas que importan
++ ┌─────────────────────────────────────────────────────────────┐
++ │  💜  Desarrolladora Full Stack con alma de creativa        │
++ │  🚀  Java • React • Python • TypeScript                     │
++ │  🎨  Amo el código limpio y las interfaces bonitas          │
++ │  🌱  Aprendiendo: AWS y GraphQL                             │
++ │  🎯  Meta 2026: Contribuir a 5 proyectos open source        │
++ └─────────────────────────────────────────────────────────────┘
 
 
 <br/>
