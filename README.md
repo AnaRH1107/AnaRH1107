@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=✨+Ana+Galván+✨;Full+Stack+Developer;Java+%7C+React+%7C+Python" alt="Typing SVG" />
-</div>
 
 <br/>
 ## 🎭 **¿Quién soy?**
