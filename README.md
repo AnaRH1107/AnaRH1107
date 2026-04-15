@@ -35,28 +35,3 @@ https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoC
 </div>
 📊 Mis stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnaRH1107&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=FF1493&title_color=FF1493" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaRH1107&theme=radical&hide_border=true&background=0d1117&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaRH1107&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF1493" height="160" /></div>
-🏆 Mis proyectos destacados
-Proyecto	Tecnologías	Descripción
-TaskFlow Pro	React, Node, MongoDB	📱 App de gestión de tareas con autenticación
-Market API	Java, Spring Boot, JWT	🛒 API REST para e-commerce segura
-DataDash	Python, Django, PostgreSQL	📊 Dashboard interactivo de análisis de datos
-💡 Cambia estos proyectos por los tuyos reales cuando los tengas listos.
-
-
-💬 Mi frase favorita
-<div align="center">
-"El código que escribes hoy es el legado que dejas mañana. Hazlo bonito." 💜
-</div>
-🌐 Conecta conmigo
-<div align="center">
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-
-</div>
-✨ Dato random
-<div align="center"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="120">
-☕ Fun fact: Cuando no estoy codeando, estoy tomando café o viendo animación.
-
-</div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=AnaRH1107&color=FF1493&style=for-the-badge&label=💜+VISITAS" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=FF1493&gradientColorEnd=FF69B4" width="100%"> </div> ```
