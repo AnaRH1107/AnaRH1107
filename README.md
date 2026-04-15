@@ -12,6 +12,7 @@
 
 ## 🎭 **¿Quién soy?**
 
+```diff
 + ┌─────────────────────────────────────────────────────────────┐
 + │  💜  Desarrolladora Full Stack con alma de creativa        │
 + │  🚀  Java • React • Python • TypeScript                     │
@@ -61,6 +62,6 @@ https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoCol
 ☕ Fun fact: Cuando no estoy codeando, estoy tomando café o viendo animación.
 
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=AnaRH1107&color=FF1493&style=for-the-badge&label=💜+VISITAS" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=FF1493&gradientColorEnd=FF69B4" width="100%"> </div> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=AnaRH1107&color=FF1493&style=for-the-badge&label=💜+VISITAS" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=FF1493&gradientColorEnd=FF69B4" width="100%"> </div> ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-aurelia-galvan-3b2425272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
