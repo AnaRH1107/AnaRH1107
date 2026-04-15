@@ -1,25 +1,22 @@
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=✨+ANA+RODRÍGUEZ+✨;Full+Stack+Developer;Java+%2B+React+%2B+Python;Código+con+actitud" alt="Typing SVG" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=✨+Ana+Galván+✨;Full+Stack+Developer;Java+%7C+React+%7C+Python;Código+con+actitud+y+corazón" alt="Typing SVG" />
   
 </div>
 
 <br/>
 
-## 🎭 **¿Quién soy?**
+## 💜 **Sobre mí**
 
 ```diff
 + ┌─────────────────────────────────────────────────────────────┐
-+ │  💜  Desarrolladora Full Stack con alma de creativa        │
++ │  👩‍💻  Ana Galván — Full Stack Developer                       │
 + │  🚀  Java • React • Python • TypeScript                     │
-+ │  🎨  Amo el código limpio y las interfaces bonitas          │
++ │  🎨  Amo el código limpio y las interfaces con propósito     │
 + │  🌱  Aprendiendo: AWS y GraphQL                             │
-+ │  🎯  Meta 2026: Contribuir a 5 proyectos open source        │
++ │  🎯  Meta: Crear cosas que importan y ayudar a otras devs   │
 + └─────────────────────────────────────────────────────────────┘
+
 🛠️ Tecnologías que uso
 <div align="center">
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
@@ -63,5 +60,3 @@ https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoCol
 
 </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=AnaRH1107&color=FF1493&style=for-the-badge&label=💜+VISITAS" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=FF1493&gradientColorEnd=FF69B4" width="100%"> </div> ```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-aurelia-galvan-3b2425272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
