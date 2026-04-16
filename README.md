@@ -1,6 +1,6 @@
 
 <br/>
-## 🎭 **¿Quién soy?**
+🎭 **¿Quién soy?
 
 + ┌─────────────────────────────────────────────────────────────┐
 + │  💜  Desarrolladora Full Stack con alma de creativa        │
