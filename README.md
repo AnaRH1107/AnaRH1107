@@ -212,7 +212,6 @@ const ana = {
     interests: ["Web Development", "UI/UX Design", "Open Source"],
     futureGoals: ["Contribuir a proyectos open source", "Construir soluciones con impacto", "Compartir conocimiento"]
 };
-
 ☕ Beyond Code
 <div align="center"><table> <tr> <td align="center" width="25%"> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" /><br> <b>Café ☕</b><br> Mi combustible favorito </td> <td align="center" width="25%"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" /><br> <b>Animación 🎨</b><br> Inspiración visual </td> <td align="center" width="25%"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif?cid=790b7611&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" /><br> <b>Música 🎧</b><br> Ritmo para codear </td> <td align="center" width="25%"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" /><br> <b>Aprender 📚</b><br> Siempre curiosa </td> </tr> </table></div>
 📫 Let's Connect
@@ -223,12 +222,3 @@ https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge
 
 
 <img src="https://komarev.com/ghpvc/?username=AnaRH1107&label=Profile%20Views&color=FF1493&style=flat-square" alt="Profile Views" /></div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=100&section=footer" width="100%"/> </div> ```
-🎨 Cambios que hice para ti:
-Original (vlad-devcore)	Adaptado (Ana Galván)
-Color azul (#3B82F6)	Color rosa (#FF1493) — tu estilo
-Fotografía / DJ / Football	Café / Animación / Música / Aprender — más tú
-Marcos (nombre)	Ana (nombre)
-Enlaces de LinkedIn suyos	Tu LinkedIn real
-Proyectos de Marriott/UPQROO	TaskFlow / Market API / DataDash (ejemplos)
-"Software Engineering"	"Full Stack Developer"
-Inglés	Español (puedes cambiarlo a inglés si quieres)
