@@ -33,7 +33,7 @@ Algo increíble está por venir.
 </td>
 </tr>
 </table>
----
+
 
 ## 🛠️ Tech Stack
 
@@ -147,25 +147,7 @@ Algo increíble está por venir.
 
 </div>
 
----
 
-## 🎯 Current Focus & Interests
-
-```javascript
-const ana = {
-    currentStatus: "Desarrolladora Full Stack en crecimiento",
-    focusAreas: ["Frontend Development", "Backend Architecture", "Clean Code"],
-    learning: ["AWS", "GraphQL", "Next.js"],
-    interests: ["Web Development", "UI/UX Design", "Open Source"],
-    futureGoals: [
-        "Contribuir a proyectos open source",
-        "Construir soluciones con impacto",
-        "Compartir conocimiento"
-    ]
-};
-```
-
----
 
 ## ☕ Beyond Code
 
