@@ -19,62 +19,9 @@ Actualmente soy Coordinadora de Tecnologia en Reservarh
 
 ### ¿Qué me mueve?
 
-Me apasiona resolver problemas reales a través del código. Ya sea construyendo una API robusta o diseñando una interfaz intuitiva, creo que la tecnología debe hacer la vida más fácil y eficiente.
+Me apasiona resolver problemas reales a través del código. La tecnología debe hacer la vida más fácil y eficiente.
 
 ---
-
-## 🚀 Proyectos destacados
-
-<table>
-<tr>
-<td width="50%">
-
-### TaskFlow Pro
-**Gestión de tareas inteligente**
-
-Aplicación para organizar tareas con autenticación, notificaciones y sincronización en tiempo real.
-
-**Impacto:**
-- Gestión eficiente de proyectos personales y profesionales
-- Interfaz intuitiva y responsiva
-- Sincronización en múltiples dispositivos
-
-**Tech Stack:** React, Node.js, MongoDB, JWT
-
-</td>
-<td width="50%">
-
-### Market API
-**API REST para e-commerce**
-
-Backend escalable y seguro para plataformas de comercio electrónico con autenticación JWT y manejo de roles.
-
-**Impacto:**
-- Procesamiento seguro de transacciones
-- Manejo eficiente de inventario
-- Documentación completa con Swagger
-
-**Tech Stack:** Java, Spring Boot, PostgreSQL, JWT
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### DataDash
-**Dashboard de análisis de datos**
-
-Plataforma interactiva para visualización y análisis de datos con gráficos dinámicos y reportes personalizables.
-
-**Impacto:**
-- Visualización clara de datos complejos
-- Reportes exportables en múltiples formatos
-- Filtros y búsquedas avanzadas
-
-**Tech Stack:** Python, Django, PostgreSQL, Chart.js
-
-</td>
-<td width="50%">
 
 ### 🚀 Próximo proyecto
 **En desarrollo**
