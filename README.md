@@ -28,7 +28,6 @@ Me apasiona resolver problemas reales a través del código. La tecnología debe
 
 Algo increíble está por venir.
 
-**Tech Stack:** Por definir
 
 </td>
 </tr>
