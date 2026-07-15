@@ -15,7 +15,7 @@
 ## 💜 Sobre mí
 
 **Desarrolladora Full Stack** apasionada por crear experiencias digitales funcionales y bonitas. Me especializo en transformar ideas en código limpio y eficiente, con un enfoque especial en el detalle y la experiencia de usuario.
-Actualmente soy Coordinadora de Tecnologia en Reservarh
+Actualmente soy Coordinadora de Tecnologia e Implementación en Reservarh
 
 ### ¿Qué me mueve?
 
